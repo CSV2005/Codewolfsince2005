@@ -1,5 +1,5 @@
 # Codewolfsince2005
-The code who never gives up
+The coder who never gives up
 # Hi, I'm Vaibhav 👋
 
 🎓 B.Tech CSE (Data Science)
